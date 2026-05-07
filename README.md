@@ -40,7 +40,7 @@ Apple's built-in Spotlight search often misses cloud-only files. This tool solve
 ## Installation
 
 ```bash
-git clone https://github.com/janrueter/icloud-search.git
+git clone https://github.com/Jan-Rueter/icloud-search.git
 cd icloud-search
 chmod +x install.sh
 ./install.sh
